@@ -1,0 +1,65 @@
+Navbar code
+
+
+/* navbar section right */
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin-bottom: 0% !important;
+}
+
+li{
+    display: inline;
+    float:right;
+}
+
+a{
+    display: block;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    padding: 1em 1em;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: #fff;
+}
+
+.navbar-section a:hover{
+    background-color: #D8D9DA;
+    color: #272829;
+    
+}
+.navbar-section a:active{
+    background-color: #FFF6E0;
+}
+
+#name{
+    text-align: left !important;
+    float: left !important;
+    
+}
+
+#name a{
+    color: #FFE4B5 !important;
+}
+
+#name a:hover{
+    background-color: #D8D9DA;
+    color: #272829 !important;
+}
+
+.navbar-section ul{
+    background-color: #61677A;r
+}
+#contact{
+    margin-right: 5em;
+}
+
+/* end-navbar-section */
+
+
+/* navbar-section left */
+.navbar-section-left{
+    color: #fff;
+}
+/* end navbar-section left */
