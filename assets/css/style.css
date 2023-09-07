@@ -149,8 +149,9 @@ nav ul li a:active{
 
 /* tentang saya */
 
-.container h2{
+.container-about h2{
     font-weight: 600;
+    margin-bottom: 1rem;
 }
 
 /* end tentang saya */
@@ -160,6 +161,10 @@ nav ul li a:active{
 
 #projects {
     background-color: #D8D9DA;
+}
+
+#projects h2 {
+    font-weight: 600;
 }
 
 
@@ -187,12 +192,18 @@ nav ul li a:active{
 
 
 /* begin contact me */
-
+#contact h2{
+    font-weight: 600;
+}
 
 /* end contact me */
 
 
 /* begin social media */
+#sosmed h2{
+    font-weight: 600;
+}
+
 .wrapper{
     display: inline-flex;
     margin-top: 5rem;
